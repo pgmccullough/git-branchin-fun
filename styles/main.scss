@@ -34,7 +34,7 @@ h1 {
     //   background: lightgreen;
     // }
     text-align: center;
-    background: lightblue;
+    background: red;
     margin: 20px 0;
     padding: 20px 0;
     font-size: 5rem;
@@ -42,7 +42,7 @@ h1 {
     @include tablet { 
       width: 40%;
       margin: 3vw 0;
-      background: lightgreen;
+      background: pink;
     }
     @include desktop {
       width: 30%;
